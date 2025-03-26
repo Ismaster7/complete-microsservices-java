@@ -6,5 +6,5 @@ spring:
 
   data:
     mongodb:
-      uri: 'mongodb+srv://help-desk-user:trcv1234@clusterhelpdesk.gzzwt.mongodb.net/helpdeskdb?retryWrites=true&w=majority&appName=ClusterHelpDesk'
+      uri: 'sua-url'
       auto-index-creation: true
